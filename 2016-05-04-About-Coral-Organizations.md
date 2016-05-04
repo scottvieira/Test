@@ -6,7 +6,7 @@ permalink: /about-coral-organizations/
 source-id: 1oL2ZERozwACvhqoCgpaepvp8z6enwU1YuFf1Xe9oELE
 published: true
 ---
-### About CORAL Organizations
+### This is a test -- About CORAL Organizations
 
 A component of Hesburgh Libraries locally developed ERM, CORAL Organizations provides a way to store and manage names, contacts and account information for the many publishers, providers, vendors, etc that libraries interact with on a daily basis all within a single searchable location.
 
